@@ -1,1 +1,8 @@
-js;json;html
+json
+html
+txt
+#git system files ext
+sample
+idx
+pack;
+
