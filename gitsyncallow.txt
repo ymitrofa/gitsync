@@ -4,5 +4,4 @@ txt
 #git system files ext
 sample
 idx
-pack;
-
+pack
