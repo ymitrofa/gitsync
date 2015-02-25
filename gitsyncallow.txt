@@ -1,9 +1,1 @@
-js
-aspx
-json
-html
-txt
-#git system files ext
-sample
-idx
-pack
+js;aspx;json;html;txt;sample;idx;pack
