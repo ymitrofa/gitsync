@@ -3,8 +3,6 @@ aspx
 json
 html
 txt
-
-# .git system files extensions
 sample
 idx
 pack
